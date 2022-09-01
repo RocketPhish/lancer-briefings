@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Disconnected",
           "status": "start"
         },
       ],
@@ -142,11 +142,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "HERCYNIA",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "ATANIA-2",
+        "year": "4650u",
+        "system": "Atania",
+        "gate": "",
+        "ring": "",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
