@@ -15,7 +15,7 @@
     </div>
     <div class="rhombus">&nbsp;</div>
     <video autoplay muted loop width="90px" height="90px">
-      <source src="Atania-2" type="jpg" />
+      <source src="Planet" type="jpg" />
     </video>
     <div class="location-info">
       <div class="location-row" id="planet-year">
