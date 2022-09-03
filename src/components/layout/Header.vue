@@ -19,7 +19,7 @@
     </video>
     <div class="location-info">
       <div class="location-row" id="planet-year">
-        <div id="planet">
+        <div id="Public_Planet">
           <h4>Deployment Info</h4>
           <span class="subtitle">{{ header.planet }}</span>
         </div>
