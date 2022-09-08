@@ -125,12 +125,12 @@ export default {
           "mech": "Everything Goes Black"
         },
         {
-          "callsign": "Empty",
-          "alias": "Marlene Gatsby",
+          "callsign": "Deacon",
+          "alias": "Cassian Arleth",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "corpro": "SSC",
+          "frame": "Orchis",
+          "mech": "Iron Lord"
         },
         {
           "callsign": "Empty",
