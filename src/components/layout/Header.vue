@@ -15,11 +15,11 @@
     </div>
     <div class="rhombus">&nbsp;</div>
     <video autoplay muted loop width="90px" height="90px">
-      <source src="public_planet" type="video/webm" />
+      <source src="planet" type="video/webm" />
     </video>
     <div class="location-info">
       <div class="location-row" id="planet-year">
-        <div id="Public_Planet">
+        <div id="planet">
           <h4>Deployment Info</h4>
           <span class="subtitle">{{ header.planet }}</span>
         </div>
